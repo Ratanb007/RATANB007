@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RATANB007
 - 👀 I’m interested in coding, web development.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on web development project
+- 💞️ I’m looking to collaborate on Salesforce / web development project
 - 📫 How to reach me mail-rb774244@gmail.com
 
 <!---
